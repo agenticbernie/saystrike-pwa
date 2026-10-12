@@ -1,0 +1,24 @@
+{
+  "name": "@saystrike/api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run --config vitest.config.ts"
+  },
+  "dependencies": {
+    "@hono/node-server": "^2.1.4",
+    "@saystrike/shared": "0.1.0",
+    "better-sqlite3": "^13.0.3",
+    "dotenv": "^17.2.2",
+    "hono": "^4.13.13",
+    "zod": "^4.6.6"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15"
+  }
+}

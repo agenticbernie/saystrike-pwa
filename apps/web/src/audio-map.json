@@ -1,0 +1,18 @@
+{
+  "music": {},
+  "effects": {
+    "uiTap": "click_001.ogg",
+    "recordingStart": "confirmation_001.ogg",
+    "audioSubmitted": "switch_002.ogg",
+    "processing": "switch26.ogg",
+    "standardHit": "impactPunch_medium_000.ogg",
+    "strongHit": "impactPunch_heavy_000.ogg",
+    "weakHit": "impactPlate_medium_000.ogg",
+    "criticalFailure": "error_001.ogg",
+    "guardBreak": "glass_005.ogg",
+    "phaseTransition": "phaseJump1.ogg",
+    "victory": "powerUp1.ogg",
+    "defeat": "phaserDown1.ogg",
+    "energyDepleted": "error_002.ogg"
+  }
+}

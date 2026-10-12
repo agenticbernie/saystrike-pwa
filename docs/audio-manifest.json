@@ -1,0 +1,4187 @@
+{
+  "generatedAt": "2026-10-12T10:18:48.453Z",
+  "sourceDirectory": "audio/",
+  "sourceCount": 416,
+  "sourceBytes": 8795802,
+  "verification": "ffprobe inspected codec, container, duration, sample rate, and channels for each file.",
+  "soundtrack": null,
+  "soundtrackStatus": "no soundtrack assets found or mapped; music stays silent",
+  "licensing": "No license or provenance document was found in audio/. Confirm distribution rights with the asset supplier before public release.",
+  "selectedEffects": {
+    "uiTap": "click_001.ogg",
+    "recordingStart": "confirmation_001.ogg",
+    "audioSubmitted": "switch_002.ogg",
+    "processing": "switch26.ogg",
+    "standardHit": "impactPunch_medium_000.ogg",
+    "strongHit": "impactPunch_heavy_000.ogg",
+    "weakHit": "impactPlate_medium_000.ogg",
+    "criticalFailure": "error_001.ogg",
+    "guardBreak": "glass_005.ogg",
+    "phaseTransition": "phaseJump1.ogg",
+    "victory": "powerUp1.ogg",
+    "defeat": "phaserDown1.ogg",
+    "energyDepleted": "error_002.ogg"
+  },
+  "files": [
+    {
+      "file": "back_001.ogg",
+      "bytes": 6997,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.064,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "back_002.ogg",
+      "bytes": 7029,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.07,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "back_003.ogg",
+      "bytes": 7208,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.093,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "back_004.ogg",
+      "bytes": 6923,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.073,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "bong_001.ogg",
+      "bytes": 4848,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.123,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "click1.ogg",
+      "bytes": 4983,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.094,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "click2.ogg",
+      "bytes": 4656,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.056,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "click3.ogg",
+      "bytes": 4880,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.086,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "click4.ogg",
+      "bytes": 4558,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.037,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "click5.ogg",
+      "bytes": 4532,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.032,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "click_001.ogg",
+      "bytes": 4876,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.1,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "sfx:uiTap"
+    },
+    {
+      "file": "click_002.ogg",
+      "bytes": 4275,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.01,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "click_003.ogg",
+      "bytes": 4371,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.01,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "click_004.ogg",
+      "bytes": 4486,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.01,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "click_005.ogg",
+      "bytes": 4410,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.01,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "close_001.ogg",
+      "bytes": 9915,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.148,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "close_002.ogg",
+      "bytes": 14752,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.314,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "close_003.ogg",
+      "bytes": 15648,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.314,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "close_004.ogg",
+      "bytes": 16263,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.323,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "computerNoise_000.ogg",
+      "bytes": 119024,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "computerNoise_001.ogg",
+      "bytes": 120178,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "computerNoise_002.ogg",
+      "bytes": 130861,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "computerNoise_003.ogg",
+      "bytes": 123515,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "confirmation_001.ogg",
+      "bytes": 8968,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.29,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "sfx:recordingStart"
+    },
+    {
+      "file": "confirmation_002.ogg",
+      "bytes": 14169,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.539,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "confirmation_003.ogg",
+      "bytes": 9535,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.322,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "confirmation_004.ogg",
+      "bytes": 12391,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.49,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "doorClose_000.ogg",
+      "bytes": 20369,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.532,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "doorClose_001.ogg",
+      "bytes": 21561,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.529,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "doorClose_002.ogg",
+      "bytes": 20530,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.533,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "doorOpen_000.ogg",
+      "bytes": 19616,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.532,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "doorOpen_001.ogg",
+      "bytes": 21442,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.529,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "doorOpen_002.ogg",
+      "bytes": 19864,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.533,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "drop_001.ogg",
+      "bytes": 5859,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.11,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "drop_002.ogg",
+      "bytes": 6411,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.191,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "drop_003.ogg",
+      "bytes": 6288,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.191,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "drop_004.ogg",
+      "bytes": 7230,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.287,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "engineCircular_000.ogg",
+      "bytes": 177470,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "engineCircular_001.ogg",
+      "bytes": 199100,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "engineCircular_002.ogg",
+      "bytes": 188542,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "engineCircular_003.ogg",
+      "bytes": 184193,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "engineCircular_004.ogg",
+      "bytes": 180870,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "error_001.ogg",
+      "bytes": 7373,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.165,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "sfx:criticalFailure"
+    },
+    {
+      "file": "error_002.ogg",
+      "bytes": 7369,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.165,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "sfx:energyDepleted"
+    },
+    {
+      "file": "error_003.ogg",
+      "bytes": 12256,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.533,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "error_004.ogg",
+      "bytes": 6393,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.103,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "error_005.ogg",
+      "bytes": 7266,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "error_006.ogg",
+      "bytes": 8288,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "error_007.ogg",
+      "bytes": 10225,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.192,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "error_008.ogg",
+      "bytes": 9215,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.139,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "explosionCrunch_000.ogg",
+      "bytes": 28274,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.777,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "explosionCrunch_001.ogg",
+      "bytes": 47916,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.357,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "explosionCrunch_002.ogg",
+      "bytes": 47907,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.256,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "explosionCrunch_003.ogg",
+      "bytes": 54824,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.553,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "explosionCrunch_004.ogg",
+      "bytes": 79250,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.98,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_carpet_000.ogg",
+      "bytes": 6353,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.145,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_carpet_001.ogg",
+      "bytes": 6411,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.145,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_carpet_002.ogg",
+      "bytes": 6411,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.145,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_carpet_003.ogg",
+      "bytes": 6301,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.145,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_carpet_004.ogg",
+      "bytes": 6301,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.145,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_concrete_000.ogg",
+      "bytes": 5808,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.106,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_concrete_001.ogg",
+      "bytes": 6308,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.108,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_concrete_002.ogg",
+      "bytes": 6255,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.113,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_concrete_003.ogg",
+      "bytes": 5805,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.11,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_concrete_004.ogg",
+      "bytes": 5912,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.114,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_grass_000.ogg",
+      "bytes": 8290,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.778,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_grass_001.ogg",
+      "bytes": 8313,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.674,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_grass_002.ogg",
+      "bytes": 8278,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.692,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_grass_003.ogg",
+      "bytes": 8129,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.669,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_grass_004.ogg",
+      "bytes": 7800,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.59,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_snow_000.ogg",
+      "bytes": 7880,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.374,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_snow_001.ogg",
+      "bytes": 7794,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.374,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_snow_002.ogg",
+      "bytes": 7694,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.374,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_snow_003.ogg",
+      "bytes": 7860,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.374,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_snow_004.ogg",
+      "bytes": 7630,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.374,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_wood_000.ogg",
+      "bytes": 5949,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.25,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_wood_001.ogg",
+      "bytes": 5929,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.252,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_wood_002.ogg",
+      "bytes": 5895,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.251,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_wood_003.ogg",
+      "bytes": 6207,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.252,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "footstep_wood_004.ogg",
+      "bytes": 5799,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.248,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "forceField_000.ogg",
+      "bytes": 25672,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.954,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "forceField_001.ogg",
+      "bytes": 28947,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.953,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "forceField_002.ogg",
+      "bytes": 27647,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.955,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "forceField_003.ogg",
+      "bytes": 23938,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.956,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "forceField_004.ogg",
+      "bytes": 26885,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.954,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "glass_001.ogg",
+      "bytes": 6103,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.278,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "glass_002.ogg",
+      "bytes": 4917,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.125,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "glass_003.ogg",
+      "bytes": 5732,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.124,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "glass_004.ogg",
+      "bytes": 8323,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.692,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "glass_005.ogg",
+      "bytes": 6206,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.111,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "sfx:guardBreak"
+    },
+    {
+      "file": "glass_006.ogg",
+      "bytes": 6956,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.111,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "glitch_001.ogg",
+      "bytes": 5121,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.02,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "glitch_002.ogg",
+      "bytes": 5473,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.03,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "glitch_003.ogg",
+      "bytes": 4915,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.01,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "glitch_004.ogg",
+      "bytes": 5225,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.023,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "highDown.ogg",
+      "bytes": 5803,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.522,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "highUp.ogg",
+      "bytes": 6135,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.549,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactBell_heavy_000.ogg",
+      "bytes": 13915,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.48,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactBell_heavy_001.ogg",
+      "bytes": 15577,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.741,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactBell_heavy_002.ogg",
+      "bytes": 9252,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.697,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactBell_heavy_003.ogg",
+      "bytes": 9429,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.654,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactBell_heavy_004.ogg",
+      "bytes": 6529,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.301,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGeneric_light_000.ogg",
+      "bytes": 5827,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.139,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGeneric_light_001.ogg",
+      "bytes": 5636,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.118,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGeneric_light_002.ogg",
+      "bytes": 5795,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.14,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGeneric_light_003.ogg",
+      "bytes": 5792,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.138,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGeneric_light_004.ogg",
+      "bytes": 5747,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.14,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_heavy_000.ogg",
+      "bytes": 7403,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.241,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_heavy_001.ogg",
+      "bytes": 8946,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.429,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_heavy_002.ogg",
+      "bytes": 7661,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.247,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_heavy_003.ogg",
+      "bytes": 6956,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.172,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_heavy_004.ogg",
+      "bytes": 8300,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.399,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_light_000.ogg",
+      "bytes": 6526,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.21,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_light_001.ogg",
+      "bytes": 6544,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.21,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_light_002.ogg",
+      "bytes": 6562,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.21,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_light_003.ogg",
+      "bytes": 6618,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.21,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_light_004.ogg",
+      "bytes": 6641,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.21,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_medium_000.ogg",
+      "bytes": 8400,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.543,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_medium_001.ogg",
+      "bytes": 8605,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.543,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_medium_002.ogg",
+      "bytes": 8341,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.543,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_medium_003.ogg",
+      "bytes": 8596,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.543,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactGlass_medium_004.ogg",
+      "bytes": 8397,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.543,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_000.ogg",
+      "bytes": 15491,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.635,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_001.ogg",
+      "bytes": 15305,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.688,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_002.ogg",
+      "bytes": 12708,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.471,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_003.ogg",
+      "bytes": 17303,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.777,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_004.ogg",
+      "bytes": 11290,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.39,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_heavy_000.ogg",
+      "bytes": 6110,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.168,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_heavy_001.ogg",
+      "bytes": 7279,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.359,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_heavy_002.ogg",
+      "bytes": 5634,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.117,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_heavy_003.ogg",
+      "bytes": 6209,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.207,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_heavy_004.ogg",
+      "bytes": 5788,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.134,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_light_000.ogg",
+      "bytes": 7651,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.351,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_light_001.ogg",
+      "bytes": 6967,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.252,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_light_002.ogg",
+      "bytes": 6804,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.236,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_light_003.ogg",
+      "bytes": 9023,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.482,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_light_004.ogg",
+      "bytes": 6675,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.213,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_medium_000.ogg",
+      "bytes": 7117,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.272,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_medium_001.ogg",
+      "bytes": 6151,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.143,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_medium_002.ogg",
+      "bytes": 5857,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.119,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_medium_003.ogg",
+      "bytes": 6964,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.254,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMetal_medium_004.ogg",
+      "bytes": 5744,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.109,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMining_000.ogg",
+      "bytes": 12035,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.937,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMining_001.ogg",
+      "bytes": 11481,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.869,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMining_002.ogg",
+      "bytes": 11235,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.805,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMining_003.ogg",
+      "bytes": 12160,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.992,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactMining_004.ogg",
+      "bytes": 11668,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.83,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlank_medium_000.ogg",
+      "bytes": 12016,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.779,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlank_medium_001.ogg",
+      "bytes": 12082,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.779,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlank_medium_002.ogg",
+      "bytes": 12313,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.779,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlank_medium_003.ogg",
+      "bytes": 12138,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.779,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlank_medium_004.ogg",
+      "bytes": 12084,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.779,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_heavy_000.ogg",
+      "bytes": 10032,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.489,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_heavy_001.ogg",
+      "bytes": 8713,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.352,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_heavy_002.ogg",
+      "bytes": 10188,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.494,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_heavy_003.ogg",
+      "bytes": 8490,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.347,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_heavy_004.ogg",
+      "bytes": 11092,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.559,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_light_000.ogg",
+      "bytes": 10474,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.542,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_light_001.ogg",
+      "bytes": 11730,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.655,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_light_002.ogg",
+      "bytes": 9932,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.489,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_light_003.ogg",
+      "bytes": 10626,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.528,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_light_004.ogg",
+      "bytes": 11928,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.657,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_medium_000.ogg",
+      "bytes": 10921,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.609,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "sfx:weakHit"
+    },
+    {
+      "file": "impactPlate_medium_001.ogg",
+      "bytes": 11491,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.616,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_medium_002.ogg",
+      "bytes": 10250,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.515,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_medium_003.ogg",
+      "bytes": 11616,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.654,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPlate_medium_004.ogg",
+      "bytes": 10803,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.534,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPunch_heavy_000.ogg",
+      "bytes": 11617,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.649,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "sfx:strongHit"
+    },
+    {
+      "file": "impactPunch_heavy_001.ogg",
+      "bytes": 10861,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.536,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPunch_heavy_002.ogg",
+      "bytes": 9025,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.457,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPunch_heavy_003.ogg",
+      "bytes": 10029,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.474,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPunch_heavy_004.ogg",
+      "bytes": 10452,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.536,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPunch_medium_000.ogg",
+      "bytes": 8800,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.431,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "sfx:standardHit"
+    },
+    {
+      "file": "impactPunch_medium_001.ogg",
+      "bytes": 8701,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.405,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPunch_medium_002.ogg",
+      "bytes": 10399,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.541,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPunch_medium_003.ogg",
+      "bytes": 9509,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.455,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactPunch_medium_004.ogg",
+      "bytes": 10032,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.543,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactSoft_heavy_000.ogg",
+      "bytes": 6570,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.505,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactSoft_heavy_001.ogg",
+      "bytes": 6689,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.572,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactSoft_heavy_002.ogg",
+      "bytes": 6749,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.572,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactSoft_heavy_003.ogg",
+      "bytes": 6665,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.544,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactSoft_heavy_004.ogg",
+      "bytes": 6478,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.501,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactSoft_medium_000.ogg",
+      "bytes": 5351,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.118,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactSoft_medium_001.ogg",
+      "bytes": 5506,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.183,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactSoft_medium_002.ogg",
+      "bytes": 5358,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.135,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactSoft_medium_003.ogg",
+      "bytes": 5392,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.14,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactSoft_medium_004.ogg",
+      "bytes": 5438,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.147,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactTin_medium_000.ogg",
+      "bytes": 6509,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.159,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactTin_medium_001.ogg",
+      "bytes": 6603,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.174,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactTin_medium_002.ogg",
+      "bytes": 6156,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.134,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactTin_medium_003.ogg",
+      "bytes": 6541,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.215,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactTin_medium_004.ogg",
+      "bytes": 6362,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.179,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_heavy_000.ogg",
+      "bytes": 6233,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.313,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_heavy_001.ogg",
+      "bytes": 6239,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.313,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_heavy_002.ogg",
+      "bytes": 6146,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.313,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_heavy_003.ogg",
+      "bytes": 6181,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.313,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_heavy_004.ogg",
+      "bytes": 6253,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.313,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_light_000.ogg",
+      "bytes": 6343,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.266,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_light_001.ogg",
+      "bytes": 6373,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.266,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_light_002.ogg",
+      "bytes": 6366,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.266,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_light_003.ogg",
+      "bytes": 6381,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.266,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_light_004.ogg",
+      "bytes": 6395,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.266,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_medium_000.ogg",
+      "bytes": 6575,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.333,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_medium_001.ogg",
+      "bytes": 6555,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.333,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_medium_002.ogg",
+      "bytes": 6607,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.333,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_medium_003.ogg",
+      "bytes": 6598,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.333,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "impactWood_medium_004.ogg",
+      "bytes": 6481,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.333,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "laser1.ogg",
+      "bytes": 9315,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.1,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laser2.ogg",
+      "bytes": 8524,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.091,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laser3.ogg",
+      "bytes": 8302,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.984,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laser4.ogg",
+      "bytes": 9208,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.132,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laser5.ogg",
+      "bytes": 8484,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.014,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laser6.ogg",
+      "bytes": 8928,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.971,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laser7.ogg",
+      "bytes": 8848,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.933,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laser8.ogg",
+      "bytes": 9383,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.987,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laser9.ogg",
+      "bytes": 9331,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.009,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserLarge_000.ogg",
+      "bytes": 25566,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.677,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserLarge_001.ogg",
+      "bytes": 26220,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.721,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserLarge_002.ogg",
+      "bytes": 27440,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.744,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserLarge_003.ogg",
+      "bytes": 26104,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.716,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserLarge_004.ogg",
+      "bytes": 26283,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.693,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserRetro_000.ogg",
+      "bytes": 12588,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.235,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserRetro_001.ogg",
+      "bytes": 12732,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.236,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserRetro_002.ogg",
+      "bytes": 13130,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.255,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserRetro_003.ogg",
+      "bytes": 14271,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.255,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserRetro_004.ogg",
+      "bytes": 12701,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.279,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserSmall_000.ogg",
+      "bytes": 7286,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.239,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserSmall_001.ogg",
+      "bytes": 7448,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.247,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserSmall_002.ogg",
+      "bytes": 8973,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.344,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserSmall_003.ogg",
+      "bytes": 8179,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.3,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "laserSmall_004.ogg",
+      "bytes": 8632,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.414,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "lowDown.ogg",
+      "bytes": 5956,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.784,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "lowFrequency_explosion_000.ogg",
+      "bytes": 14317,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 2,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "lowFrequency_explosion_001.ogg",
+      "bytes": 9408,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "lowRandom.ogg",
+      "bytes": 5416,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.549,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "lowThreeTone.ogg",
+      "bytes": 7035,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.019,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "maximize_001.ogg",
+      "bytes": 12111,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.258,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "maximize_002.ogg",
+      "bytes": 9915,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.258,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "maximize_003.ogg",
+      "bytes": 11748,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.212,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "maximize_004.ogg",
+      "bytes": 17723,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.418,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "maximize_005.ogg",
+      "bytes": 20900,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.526,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "maximize_006.ogg",
+      "bytes": 11618,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.38,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "maximize_007.ogg",
+      "bytes": 8097,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.186,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "maximize_008.ogg",
+      "bytes": 9085,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.225,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "maximize_009.ogg",
+      "bytes": 7650,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.225,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "minimize_001.ogg",
+      "bytes": 11924,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.258,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "minimize_002.ogg",
+      "bytes": 9441,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.258,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "minimize_003.ogg",
+      "bytes": 11739,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.212,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "minimize_004.ogg",
+      "bytes": 17099,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.418,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "minimize_005.ogg",
+      "bytes": 19501,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.526,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "minimize_006.ogg",
+      "bytes": 11292,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.38,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "minimize_007.ogg",
+      "bytes": 7677,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.186,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "minimize_008.ogg",
+      "bytes": 9298,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.225,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "minimize_009.ogg",
+      "bytes": 7665,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.225,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "mouseclick1.ogg",
+      "bytes": 4686,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.059,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "mouserelease1.ogg",
+      "bytes": 4775,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.069,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "open_001.ogg",
+      "bytes": 9834,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.148,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "open_002.ogg",
+      "bytes": 14975,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.314,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "open_003.ogg",
+      "bytes": 15046,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.314,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "open_004.ogg",
+      "bytes": 15879,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.323,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "pepSound1.ogg",
+      "bytes": 6019,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.522,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "pepSound2.ogg",
+      "bytes": 5910,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.549,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "pepSound3.ogg",
+      "bytes": 5590,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.444,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "pepSound4.ogg",
+      "bytes": 5948,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.627,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "pepSound5.ogg",
+      "bytes": 6422,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.627,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaseJump1.ogg",
+      "bytes": 6733,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.47,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "sfx:phaseTransition"
+    },
+    {
+      "file": "phaseJump2.ogg",
+      "bytes": 6342,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.392,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaseJump3.ogg",
+      "bytes": 6854,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.444,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaseJump4.ogg",
+      "bytes": 7117,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.47,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaseJump5.ogg",
+      "bytes": 6770,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.418,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaserDown1.ogg",
+      "bytes": 7113,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.47,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "sfx:defeat"
+    },
+    {
+      "file": "phaserDown2.ogg",
+      "bytes": 6093,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.313,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaserDown3.ogg",
+      "bytes": 7329,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.496,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaserUp1.ogg",
+      "bytes": 7390,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.496,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaserUp2.ogg",
+      "bytes": 6895,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.418,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaserUp3.ogg",
+      "bytes": 7222,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.522,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaserUp4.ogg",
+      "bytes": 6332,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.366,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaserUp5.ogg",
+      "bytes": 6289,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.313,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaserUp6.ogg",
+      "bytes": 6349,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.34,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "phaserUp7.ogg",
+      "bytes": 6410,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.366,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "pluck_001.ogg",
+      "bytes": 6317,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.102,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "pluck_002.ogg",
+      "bytes": 6941,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.165,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp1.ogg",
+      "bytes": 9011,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.202,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "sfx:victory"
+    },
+    {
+      "file": "powerUp10.ogg",
+      "bytes": 6568,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.653,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp11.ogg",
+      "bytes": 6495,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.679,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp12.ogg",
+      "bytes": 7278,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.862,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp2.ogg",
+      "bytes": 5577,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.47,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp3.ogg",
+      "bytes": 9043,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.149,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp4.ogg",
+      "bytes": 6288,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.549,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp5.ogg",
+      "bytes": 5652,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.444,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp6.ogg",
+      "bytes": 5607,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.444,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp7.ogg",
+      "bytes": 5868,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.522,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp8.ogg",
+      "bytes": 6363,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.575,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "powerUp9.ogg",
+      "bytes": 6101,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.549,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "question_001.ogg",
+      "bytes": 11700,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.491,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "question_002.ogg",
+      "bytes": 9455,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.333,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "question_003.ogg",
+      "bytes": 8233,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.332,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "question_004.ogg",
+      "bytes": 9821,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.332,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "rollover1.ogg",
+      "bytes": 5932,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.227,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "rollover2.ogg",
+      "bytes": 4701,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.057,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "rollover3.ogg",
+      "bytes": 4778,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.069,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "rollover4.ogg",
+      "bytes": 5188,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.113,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "rollover5.ogg",
+      "bytes": 5258,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.112,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "rollover6.ogg",
+      "bytes": 5385,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.174,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "scratch_001.ogg",
+      "bytes": 8989,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.139,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "scratch_002.ogg",
+      "bytes": 9319,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.139,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "scratch_003.ogg",
+      "bytes": 8849,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.123,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "scratch_004.ogg",
+      "bytes": 16478,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.325,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "scratch_005.ogg",
+      "bytes": 15824,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.325,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "scroll_001.ogg",
+      "bytes": 21633,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "scroll_002.ogg",
+      "bytes": 24628,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "scroll_003.ogg",
+      "bytes": 29488,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "scroll_004.ogg",
+      "bytes": 20348,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "scroll_005.ogg",
+      "bytes": 20448,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "select_001.ogg",
+      "bytes": 5468,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.043,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "select_002.ogg",
+      "bytes": 5463,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.043,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "select_003.ogg",
+      "bytes": 6901,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.383,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "select_004.ogg",
+      "bytes": 6909,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.383,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "select_005.ogg",
+      "bytes": 6767,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.383,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "select_006.ogg",
+      "bytes": 8101,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.944,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "select_007.ogg",
+      "bytes": 6580,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.047,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "select_008.ogg",
+      "bytes": 6339,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.047,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "slime_000.ogg",
+      "bytes": 20870,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "slime_001.ogg",
+      "bytes": 159177,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 4.71,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineLarge_000.ogg",
+      "bytes": 189900,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineLarge_001.ogg",
+      "bytes": 212818,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineLarge_002.ogg",
+      "bytes": 214424,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineLarge_003.ogg",
+      "bytes": 214580,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineLarge_004.ogg",
+      "bytes": 210809,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineLow_000.ogg",
+      "bytes": 99760,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineLow_001.ogg",
+      "bytes": 99120,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineLow_002.ogg",
+      "bytes": 72688,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineLow_003.ogg",
+      "bytes": 85760,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineLow_004.ogg",
+      "bytes": 100444,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineSmall_000.ogg",
+      "bytes": 116880,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineSmall_001.ogg",
+      "bytes": 133181,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineSmall_002.ogg",
+      "bytes": 120467,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineSmall_003.ogg",
+      "bytes": 129935,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngineSmall_004.ogg",
+      "bytes": 130520,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngine_000.ogg",
+      "bytes": 109059,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngine_001.ogg",
+      "bytes": 121385,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngine_002.ogg",
+      "bytes": 111072,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceEngine_003.ogg",
+      "bytes": 67503,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceTrash1.ogg",
+      "bytes": 12132,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.451,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceTrash2.ogg",
+      "bytes": 12640,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.475,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceTrash3.ogg",
+      "bytes": 12413,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.535,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceTrash4.ogg",
+      "bytes": 12685,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.477,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "spaceTrash5.ogg",
+      "bytes": 11729,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.426,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch1.ogg",
+      "bytes": 6104,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.315,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch10.ogg",
+      "bytes": 6456,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.367,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch11.ogg",
+      "bytes": 6248,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.297,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch12.ogg",
+      "bytes": 4588,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.054,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch13.ogg",
+      "bytes": 4467,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.028,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch14.ogg",
+      "bytes": 4522,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.033,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch15.ogg",
+      "bytes": 6325,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.256,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch16.ogg",
+      "bytes": 6991,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.359,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch17.ogg",
+      "bytes": 6686,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.333,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch18.ogg",
+      "bytes": 7633,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.435,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch19.ogg",
+      "bytes": 7177,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.384,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch2.ogg",
+      "bytes": 6042,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.297,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch20.ogg",
+      "bytes": 6965,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.359,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch21.ogg",
+      "bytes": 7453,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.41,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch22.ogg",
+      "bytes": 7116,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.359,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch23.ogg",
+      "bytes": 7177,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.384,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch24.ogg",
+      "bytes": 6340,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.282,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch25.ogg",
+      "bytes": 7130,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.384,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch26.ogg",
+      "bytes": 6031,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.23,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "sfx:processing"
+    },
+    {
+      "file": "switch27.ogg",
+      "bytes": 6445,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.282,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch28.ogg",
+      "bytes": 5916,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.205,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch29.ogg",
+      "bytes": 6769,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.307,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch3.ogg",
+      "bytes": 6270,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.367,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch30.ogg",
+      "bytes": 7151,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.359,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch31.ogg",
+      "bytes": 8180,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.435,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch32.ogg",
+      "bytes": 7868,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.435,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch33.ogg",
+      "bytes": 8530,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.512,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch34.ogg",
+      "bytes": 7910,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.461,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch35.ogg",
+      "bytes": 6935,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.333,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch36.ogg",
+      "bytes": 6616,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.307,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch37.ogg",
+      "bytes": 6822,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.307,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch38.ogg",
+      "bytes": 7303,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.424,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch4.ogg",
+      "bytes": 6477,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.42,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch5.ogg",
+      "bytes": 6181,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.315,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch6.ogg",
+      "bytes": 6610,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.35,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch7.ogg",
+      "bytes": 5707,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.192,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch8.ogg",
+      "bytes": 6253,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.332,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch9.ogg",
+      "bytes": 6009,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.262,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch_001.ogg",
+      "bytes": 6753,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.618,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch_002.ogg",
+      "bytes": 7097,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.611,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "sfx:audioSubmitted"
+    },
+    {
+      "file": "switch_003.ogg",
+      "bytes": 9653,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.5,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch_004.ogg",
+      "bytes": 7248,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.5,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch_005.ogg",
+      "bytes": 7814,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.612,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch_006.ogg",
+      "bytes": 7873,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.611,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "switch_007.ogg",
+      "bytes": 7921,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.614,
+      "sampleRateHz": 44100,
+      "channels": 2,
+      "use": "unassigned"
+    },
+    {
+      "file": "threeTone1.ogg",
+      "bytes": 7361,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.827,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "threeTone2.ogg",
+      "bytes": 8082,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.866,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "thrusterFire_000.ogg",
+      "bytes": 201216,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "thrusterFire_001.ogg",
+      "bytes": 204218,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "thrusterFire_002.ogg",
+      "bytes": 205657,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "thrusterFire_003.ogg",
+      "bytes": 196273,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "thrusterFire_004.ogg",
+      "bytes": 209339,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 5,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "tick_001.ogg",
+      "bytes": 4497,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.023,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "tick_002.ogg",
+      "bytes": 4514,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.023,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "tick_004.ogg",
+      "bytes": 5031,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.055,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "toggle_001.ogg",
+      "bytes": 7369,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.139,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "toggle_002.ogg",
+      "bytes": 8056,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.139,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "toggle_003.ogg",
+      "bytes": 8654,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.139,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "toggle_004.ogg",
+      "bytes": 6695,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.066,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "tone1.ogg",
+      "bytes": 6634,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.661,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "twoTone1.ogg",
+      "bytes": 7362,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.724,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "twoTone2.ogg",
+      "bytes": 7349,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 0.731,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "zap1.ogg",
+      "bytes": 8126,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.019,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "zap2.ogg",
+      "bytes": 9819,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.228,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "zapThreeToneDown.ogg",
+      "bytes": 9936,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.332,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "zapThreeToneUp.ogg",
+      "bytes": 9590,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.202,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "zapTwoTone.ogg",
+      "bytes": 9847,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.306,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    },
+    {
+      "file": "zapTwoTone2.ogg",
+      "bytes": 9016,
+      "format": "ogg",
+      "codec": "vorbis",
+      "durationSeconds": 1.202,
+      "sampleRateHz": 44100,
+      "channels": 1,
+      "use": "unassigned"
+    }
+  ]
+}
